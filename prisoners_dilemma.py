@@ -32,7 +32,7 @@ from __future__ import print_function
 #######
 import random
 import os.path              
-    
+import reload
 import example0, example1, example2, example3
 import example4, example5, example6, example7
 import team0, team1, team2, team3, team4
